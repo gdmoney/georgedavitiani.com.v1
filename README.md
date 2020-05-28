@@ -13,14 +13,14 @@ Provide value by solving complex technical problems as a **Network Engineer**.
 - I’m detail oriented and self-disciplined with excellent time management skills and I collaborate well with IT professionals across different functional teams.
 
 ## Professional Experience
-| Year        | Employer
-| :---------- | :-------------------------- |
-| 2016 - Pres | Intuit                      |
-| 2012 - 2016 | CareFusion                  |
-| 2010 - 2012 | Wynn Las Vegas              |
-| 2005 - 2010 | ACS/Xerox                   |
-| 2003 - 2005 | RealTime Communications     |
-| 1999 - 2003 | Siemens Enterprise Networks |
+| Year        | Employer                    | Position
+| :---------- | :-------------------------- | :------------------- |
+| 2016 - Pres | Intuit                      | Sr. Network Engineer |
+| 2012 - 2016 | CareFusion                  | Sr. Network Engineer |
+| 2010 - 2012 | Wynn Las Vegas              | Sr. Network Engineer |
+| 2005 - 2010 | ACS/Xerox                   | Network Engineer     |
+| 2003 - 2005 | RealTime Communications     | Solutions Engineer   |
+| 1999 - 2003 | Siemens Enterprise Networks | Data Engineer        |
 
 
 ## Technical Certifications
