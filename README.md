@@ -1,7 +1,5 @@
 # George Davitiani
 
-*****
-
 
 ## Objective
 Provide value by solving complex technical problems as a Network Engineer.
