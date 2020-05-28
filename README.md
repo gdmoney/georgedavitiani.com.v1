@@ -13,6 +13,10 @@ Provide value by solving complex technical problems as a **Network Engineer**.
 - I’m detail oriented and self-disciplined with excellent time management skills and I collaborate well with IT professionals across different functional teams.
 
 ## Professional Experience
+| asdf  | Safd|
+| ------------- | ------------- |
+| Cafds  | Casdfafds |
+| asdfafd  | Cadsfasdf  |
 
 
 ## Technical Certifications
