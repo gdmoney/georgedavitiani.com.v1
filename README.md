@@ -13,10 +13,14 @@ Provide value by solving complex technical problems as a **Network Engineer**.
 - I’m detail oriented and self-disciplined with excellent time management skills and I collaborate well with IT professionals across different functional teams.
 
 ## Professional Experience
-| asdf  | Safd|
-| ------------- | ------------- |
-| Cafds  | Casdfafds |
-| asdfafd  | Cadsfasdf  |
+| Year        | Employer
+| :---------- | :-------------------------- |
+| 2016 - Pres | Intuit                      |
+| 2012 - 2016 | CareFusion                  |
+| 2010 - 2012 | Wynn Las Vegas              |
+| 2005 - 2010 | ACS/Xerox                   |
+| 2003 - 2005 | RealTime Communications     |
+| 1999 - 2003 | Siemens Enterprise Networks |
 
 
 ## Technical Certifications
