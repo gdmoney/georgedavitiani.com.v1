@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+title: georgedavitiani.com
+
+sass:
+  style: :compressed
