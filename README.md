@@ -25,13 +25,13 @@ Provide value by solving complex technical problems as a **Network Engineer**.
 
 
 ## Technical Certifications
-| Company   | Certification(s)                                                                     |
-| :-------- | :----------------------------------------------------------------------------------- |
-| AWS       | Advanced Networking, Security, Solutions Architect - Associate, SysOps Administrator |
-| Cisco     | CCNP Routing & Switching, CCDP, CCNA Security / Voice / Wireless                     |
-| F5        | F5 Certified BIG-IP Administrator                                                    |
-| Palo Alto | Accredited Configuration Engineer                                                    |
-| VMware    | VMware Certified Associate DCV / Network Virtualization / Cloud                      |
+| Company            | Certification(s)                                                                     |
+| :----------------- | :----------------------------------------------------------------------------------- |
+| AWS                | Advanced Networking, Security, Solutions Architect - Associate, SysOps Administrator |
+| Cisco              | CCNP Routing & Switching, CCDP, CCNA Security / Voice / Wireless                     |
+| F5                 | F5 Certified BIG-IP Administrator                                                    |
+| Palo Alto Networks | Accredited Configuration Engineer                                                    |
+| VMware             | VMware Certified Associate DCV / Network Virtualization / Cloud                      |
 
 ## Education
 | Institution                      | Degree                                |
