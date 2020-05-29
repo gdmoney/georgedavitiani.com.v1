@@ -12,6 +12,7 @@ Provide value by solving complex technical problems as a **Network Engineer**.
 - I can clearly communicate technical concepts to both technical and non-technical audiences and make presentations to all levels of an organization.
 - I’m detail oriented and self-disciplined with excellent time management skills and I collaborate well with IT professionals across different functional teams.
 
+
 ## Professional Experience
 | Year        | Employer                    | Position
 | :---------- | :-------------------------- | :------------------- |
