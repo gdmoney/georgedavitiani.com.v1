@@ -34,10 +34,10 @@ Provide value by solving complex technical problems as a **Network Engineer**.
 | VMware             | VMware Certified Associate DCV / Network Virtualization / Cloud                      |
 
 ## Education
-| Institution                      | Degree                                |
-| :------------------------------- | :------------------------------------ |
-| University of California, Irvine | BA: Economics (Graduated with Honors) |
-| Golden West College              | AA: General Education                 |
+| Institution                      | Degree                                  |
+| :------------------------------- | :-------------------------------------- |
+| University of California, Irvine | BA: Economics _(Graduated with Honors)_ |
+| Golden West College              | AA: General Education                   |
 
 
 ## References
