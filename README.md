@@ -2,6 +2,7 @@
 
 george.davitiani@gmail.com • 619-755-6256 • [Download PDF](/resume.pdf)
 
+
 ## Objective
 Provide value by solving complex technical problems as a **Network Engineer**.
 
@@ -33,6 +34,7 @@ Provide value by solving complex technical problems as a **Network Engineer**.
 | F5                 | F5 Certified BIG-IP Administrator                                                    |
 | Palo Alto Networks | Accredited Configuration Engineer                                                    |
 | VMware             | VMware Certified Associate DCV / Network Virtualization / Cloud                      |
+
 
 ## Education
 | Institution                      | Degree                                  |
