@@ -1,5 +1,6 @@
 # George Davitiani
 
+george.davitiani@gmail.com • 619-755-6256 • [Download PDF](/resume.pdf)
 
 ## Objective
 Provide value by solving complex technical problems as a **Network Engineer**.
