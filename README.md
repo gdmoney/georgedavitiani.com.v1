@@ -1,6 +1,6 @@
 # George Davitiani
 
-george.davitiani@gmail.com • 619-755-6256 • [Download PDF](/resume.pdf) • [View on GitHub](https://github.com/gdmoney/georgedavitiani.com target"=blank")
+george.davitiani@gmail.com • 619-755-6256 • [Download PDF](/resume.pdf) • [View on GitHub](https://github.com/gdmoney/georgedavitiani.com?target=_blank)
 
 
 ## Objective
