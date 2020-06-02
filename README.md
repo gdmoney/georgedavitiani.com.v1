@@ -1,6 +1,10 @@
 # George Davitiani
 
-george.davitiani@gmail.com • 619-755-6256 • [Download PDF](/resume.pdf) • [View on GitHub](https://github.com/gdmoney/georgedavitiani.com) • [LinkedIn Profile](https://www.linkedin.com/in/davitiani)
+george.davitiani@gmail.com
+• 619-755-6256
+• [Download PDF](/resume.pdf)
+• [View on GitHub](https://github.com/gdmoney/georgedavitiani.com)
+• [LinkedIn Profile](https://www.linkedin.com/in/davitiani)
 
 
 ## Objective
