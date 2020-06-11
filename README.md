@@ -8,7 +8,7 @@ george.davitiani@gmail.com
 
 ## Objective
 
-Provide value by solving complex technical problems as a **Network Engineer**.
+Deliver value by solving complex technical problems as a **Network Engineer**.
 
 
 ## Summary of Qualifications
