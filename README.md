@@ -53,10 +53,10 @@ Deliver value by solving complex technical problems as a **Network Engineer**.
 
 ## References
 
-| Name           | Connection                  | Email                           | Phone #      |
-| :------------- | :-------------------------- | :------------------------------ | :----------- |
-| Peter Oh       | Intuit                      | peter_oh@intuit.com             | 858-215-8251 |
-| Steve Lydston  | CareFusion                  | lydston@cox.net                 | 714-955-2310 |
-| David Tyburski | Wynn Las Vegas              | david.tyburski@wynnlasvegas.com | 702-770-3216 |
-| Cheng Pulianda | ACS/Xerox                   | chengappa.pulianda@experian.com | 714-830-3345 |
-| Chris Henry    | Siemens Enterprise Networks | chrishenry10@gmail.com          | 714-390-1474 |
+| Name           | Connection                  | Email                           |
+| :------------- | :-------------------------- | :------------------------------ |
+| Peter Oh       | Intuit                      | peter_oh@intuit.com             |
+| Steve Lydston  | CareFusion                  | lydston@cox.net                 |
+| David Tyburski | Wynn Las Vegas              | david.tyburski@wynnlasvegas.com |
+| Cheng Pulianda | ACS/Xerox                   | chengappa.pulianda@experian.com |
+| Chris Henry    | Siemens Enterprise Networks | chrishenry10@gmail.com          |
