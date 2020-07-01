@@ -1,6 +1,6 @@
 # George Davitiani
 
-[Email](george.davitiani@gmail.com)
+[Email](mailto:george.davitiani@gmail.com)
 • [Download PDF](/resume.pdf)
 • [View on GitHub](https://github.com/gdmoney/georgedavitiani.com)
 • [LinkedIn Profile](https://www.linkedin.com/in/davitiani)
