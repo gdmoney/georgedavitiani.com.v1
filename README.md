@@ -2,7 +2,7 @@
 
 [Email](mailto:george.davitiani@gmail.com)
 • [Download PDF](/resume.pdf)
-• [View on GitHub](https://github.com/gdmoney/georgedavitiani.com)
+• [GitHub Profile](https://github.com/gdmoney)
 • [LinkedIn Profile](https://www.linkedin.com/in/davitiani)
 
 
