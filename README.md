@@ -1,9 +1,9 @@
 # George Davitiani
 
-[Email](mailto:george.davitiani@gmail.com)
-• [Download PDF](/resume.pdf)
-• [GitHub Profile](https://github.com/gdmoney)
-• [LinkedIn Profile](https://www.linkedin.com/in/davitiani)
+![files/email-1.png](mailto:george.davitiani@gmail.com)
+![files/pdf-1.png](/resume.pdf)
+![files/github-1.png](https://github.com/gdmoney)
+![files/li-1.png](https://www.linkedin.com/in/davitiani)
 
 
 ## Objective
