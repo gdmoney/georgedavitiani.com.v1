@@ -49,7 +49,7 @@ Deliver value by solving complex technical problems as a **Network Engineer**.
 ## References
 | Name           | Connection                  | Email                           |
 | :------------- | :-------------------------- | :------------------------------ |
-| Peter Oh       | Intuit                      | peter_oh@intuit.com             |
+| Peter Oh       | Intuit                      | pohman@gmail.com             |
 | Steve Lydston  | CareFusion                  | lydston@cox.net                 |
 | David Tyburski | Wynn Las Vegas              | david.tyburski@wynnlasvegas.com |
 | Cheng Pulianda | ACS/Xerox                   | chengappa.pulianda@experian.com |
