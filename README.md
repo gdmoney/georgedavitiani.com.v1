@@ -51,6 +51,6 @@ Deliver value by solving complex technical problems as a **Network Engineer**.
 | :------------- | :-------------------------- | :------------------------------ |
 | Peter Oh       | Intuit                      | pohman@gmail.com                |
 | Steve Lydston  | CareFusion                  | lydston@cox.net                 |
-| David Tyburski | Wynn Las Vegas              | david.tyburski@wynnlasvegas.com |
+| David Tyburski | Wynn Las Vegas              | tyburski.david@gmail.com        |
 | Cheng Pulianda | ACS/Xerox                   | chengappa.pulianda@experian.com |
 | Chris Henry    | Siemens Enterprise Networks | chrishenry10@gmail.com          |
