@@ -35,6 +35,7 @@ Deliver value by solving complex technical problems as a **Network Engineer**.
 | AWS                | Advanced Networking, Security, Solutions Architect - Associate, SysOps Administrator |
 | Cisco              | CCNP Routing & Switching, CCDP, CCNA Security / Voice / Wireless                     |
 | F5                 | F5 Certified BIG-IP Administrator                                                    |
+| Google Cloud       | Associate Cloud Engineer                                                             |
 | Palo Alto Networks | Accredited Configuration Engineer                                                    |
 | VMware             | VMware Certified Associate DCV / Network Virtualization / Cloud                      |
 
