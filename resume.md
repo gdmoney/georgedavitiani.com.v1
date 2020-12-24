@@ -13,7 +13,7 @@ Deliver value by solving complex technical problems as a **Network Engineer**.
 ## Summary of Qualifications
 - 20+ years of diverse background in enterprise networking, specializing in Cisco, Palo Alto Networks, F5, Juniper and AWS products and solutions.
 - I have extensive hands-on experience in designing, implementing and operating Data Center, Campus, Wide Area, Wireless and Cloud networks.
-- I always strive to align my job functions with the company’s business goals and have a proven track record of providing the highest level of customer service.
+- I also have considerable experiencing building production grade network automation solutions and I’m proficient at software development tools and methodologies.
 - I can clearly communicate technical concepts to both technical and non-technical audiences and make presentations to all levels of an organization.
 - I’m detail oriented and self-disciplined with excellent time management skills and I collaborate well with IT professionals across different functional teams.
 
