@@ -1,10 +1,5 @@
 # George Davitiani
 
-[![](files/email-1.png)](mailto:george.davitiani@gmail.com)
-[![](files/pdf-1.png)](/resume.pdf)
-[![](files/github-1.png)](https://github.com/gdmoney)
-[![](files/li-1.png)](https://www.linkedin.com/in/davitiani)
-
 
 ## Objective
 Deliver value by solving complex technical problems as a **Network Engineer**.
