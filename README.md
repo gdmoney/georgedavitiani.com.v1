@@ -1,4 +1,4 @@
-## My personal website hosted on GitHub Pages
+## v1 of my personal website hosted on GitHub Pages
 
 
 - ### [knowledge](https://github.com/gdmoney/knowledge)
