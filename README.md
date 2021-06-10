@@ -1,4 +1,4 @@
-## v1 of my personal website hosted on GitHub Pages
+## v1 of my personal website hosted on GitHub Pages, [v2 here](https://github.com/gdmoney/georgedavitiani.com.v2)
 
 
 - ### [knowledge](https://github.com/gdmoney/knowledge)
